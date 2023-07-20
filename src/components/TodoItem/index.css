@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.todo{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.todo-title{
+    color: #000000;
+    font-size: 15px;
+    font-weight: 600;
+    padding-right: 15px;
+}
+.button{
+    background-color: #ffffff;
+    color:  #ff0b37;
+    border-color:  #ff0b37;
+    border-style: solid;
+    border-radius: 8px;
+    height: 28px;
+    border-width: 1px;
+}
